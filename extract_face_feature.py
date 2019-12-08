@@ -1,15 +1,5 @@
-import tensorflow as tf
-from tensorflow.python.platform import gfile
-
-import re
 import numpy as np
-import argparse
-import os
-import sys
-import math
-import pickle
 import cv2
-from six.moves import xrange
 import time
 
 import pdb
